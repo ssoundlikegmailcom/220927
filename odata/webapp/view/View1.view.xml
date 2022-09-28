@@ -23,7 +23,7 @@
                 <content>
                     <Title text="목록" level="H2"/>
                     <ToolbarSpacer/>
-                    <Button icon="sap-icon://refresh" text="새로고침" press="onRefresh"/>
+                    <Button icon="sap-icon://refresh" text="새로고침1" press="onRefresh"/>
                 </content>
             </OverflowToolbar>
         </headerToolbar>
