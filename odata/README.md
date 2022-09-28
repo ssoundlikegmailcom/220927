@@ -7,7 +7,7 @@
 |**Generation Platform**<br>Visual Studio Code|
 |**Floorplan Used**<br>simple|
 |**Service Type**<br>SAP System (ABAP On Premise)|
-|**Service URL**<br>http://edu.bgis.co.kr:8001//sap/opu/odata/sap/ZGWB03_SRV
+|**Service URL**<br>http://edu.bgis.co.kr:8001//sap/opu/odata/sap/ZGWSOB03_SRV
 |**Module Name**<br>odata|
 |**Application Title**<br>OData Sample|
 |**Namespace**<br>sap.sync|

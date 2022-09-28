@@ -17,6 +17,6 @@ builder:
           url: http://edu.bgis.co.kr:8001/
           client: "100"
         app:
-          name: ZB25FIOIRI
+          name: ZB03FIOIRI
           package: $tmp
           transport: ""

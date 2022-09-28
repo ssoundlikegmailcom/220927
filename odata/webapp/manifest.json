@@ -1,7 +1,7 @@
 {
   "_version": "1.17.0",
   "sap.app": {
-    "id": "sap.sync.odata.b25",
+    "id": "sap.sync.odata.b03",
     "type": "application",
     "i18n": "i18n/i18n.properties",
     "applicationVersion": {
@@ -17,7 +17,7 @@
     },
     "dataSources": {
       "mainService": {
-        "uri": "/sap/opu/odata/sap/ZGWSOB25_SRV/",
+        "uri": "/sap/opu/odata/sap/ZGWSOB03_SRV/",
         "type": "OData",
         "settings": {
           "annotations": [],
