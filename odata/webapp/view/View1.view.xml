@@ -8,7 +8,7 @@
                 <Input id="soMemo" value="{view>/salesOrderMemo}"/>
                 <Button text="저장" press="onCreate"/>
                 <Button text="변경" press="onUpdate"/>
-                <Button text="수정모드" press="onPressEdit"/>
+                <Button text="수정 모드" press="onPressEdit"/>
                 <Button text="삭제모드" press="onPressDel"/>
             </HBox>
             <Table id="table"
